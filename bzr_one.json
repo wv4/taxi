@@ -1,5 +1,5 @@
 {
-  "name": "itachi_one",
+  "name": "bzr_one",
   "description": "slick's personal theme",
   "version": "1.0",
   "authors": [
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 1.0,
-    "url": "https://cdn.discordapp.com/attachments/1063896453010960507/1087374739028320326/IMG_2656.jpg",
+    "url": "https://media.discordapp.net/attachments/1081902611445334146/1087341775926079529/cachedImage.png",
     "alpha": 3.0
   }
 }
